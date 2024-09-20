@@ -1,6 +1,14 @@
 <div align="center">
+  <!-- Profile Heading -->
   <h1>Hi, I'm Aryan Patel</h1>
   <p><strong>LJ University of Engineering & Technology</strong></p>
+
+  <!-- Info and Links -->
+  <p>🌱 I’m currently learning <strong>Full Stack Development & Data Science</strong></p>
+  <p>💬 Ask me about <strong>Data Science, Python, Power BI</strong></p>
+  <p>📫 How to reach me: <a href="mailto:aryanpatelaryan81@gmail.com">aryanpatelaryan81@gmail.com</a></p>
+  <p>⚡ Fun fact: <strong>I do Cycling and Drawing.</strong></p>
+  <p>🌐 <a href="http://aryanpatelportfolio.infinityfreeapp.com/" target="_blank">My personal website</a></p>
 </div>
 
 
