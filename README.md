@@ -1,7 +1,7 @@
 <!-- Profile Heading -->
 <h1 align="center">Hi, I'm Aryan Patel</h1>
 <p align="center"><strong>LJ University of Engineering & Technology</strong></p>
-
+<br/>
 <!-- Info and Links -->
 <p>🌱 I’m currently learning <strong>Full Stack Development & Data Science</strong></p>
 <p>💬 Ask me about <strong>Data Science, Python, Power BI</strong></p>
@@ -75,6 +75,8 @@
     <img src="https://img.shields.io/badge/HTML5-10.2%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
     <img src="https://img.shields.io/badge/Python-10.2%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   </div>
+
+  ![PatelAryan02's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PatelAryan02&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 </div>
 
   
