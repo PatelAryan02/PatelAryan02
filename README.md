@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/12345678?v=4" width="150" style="border-radius: 50%;"><br>
   
-  <h1>Hi, I'm Jai Joshi</h1>
-  <p><strong>University of Toronto CS & Stats '27</strong></p>
+  <h1>Hi, I'm Aryan Patel</h1>
+  <p><strong>LJ University of Engineering & Technology</strong></p>
 </div>
 
 
