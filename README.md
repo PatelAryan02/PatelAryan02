@@ -64,7 +64,7 @@
   <!-- Stats Section (Optional) -->
   <h2 align="center">Most Used Languages</h2>
   
-  <div align="center">
+  <div>
     <img src="https://img.shields.io/badge/JavaScript-20.1%25-yellow?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
     <img src="https://img.shields.io/badge/React-20.5%25-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React">
     <img src="https://img.shields.io/badge/Power%20BI-15.1%25-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI">
@@ -73,122 +73,6 @@
     <img src="https://img.shields.io/badge/HTML5-10.2%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
     <img src="https://img.shields.io/badge/Python-10.2%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   </div>
-
-  <!-- GitHub Top Languages -->
-<a href="https://github-readme-stats.vercel.app/api/top-langs?username=PatelAryan02&theme=dark&layout=compact&hide_border=true">
-  <svg
-    width="300"
-    height="165"
-    viewBox="0 0 300 165"
-    fill="none"
-    xmlns="http://www.w3.org/2000/svg"
-    role="img"
-    aria-labelledby="descId"
-  >
-    <title id="titleId">Most Used Languages</title>
-    <desc id="descId">A graphical representation of programming languages used by PatelAryan02.</desc>
-    <style>
-      .header {
-        font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
-        fill: #2f80ed;
-        animation: fadeInAnimation 0.8s ease-in-out forwards;
-      }
-      @supports(-moz-appearance: auto) {
-        .header { font-size: 15.5px; }
-      }
-      @keyframes slideInAnimation {
-        from { width: 0; }
-        to { width: calc(100%-100px); }
-      }
-      @keyframes growWidthAnimation {
-        from { width: 0; }
-        to { width: 100%; }
-      }
-      .stat { font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #434d58; }
-      @supports(-moz-appearance: auto) { .stat { font-size: 12px; } }
-      .bold { font-weight: 700 }
-      .lang-name { font: 400 11px "Segoe UI", Ubuntu, Sans-Serif; fill: #434d58; }
-      .stagger { opacity: 0; animation: fadeInAnimation 0.3s ease-in-out forwards; }
-      #rect-mask rect { animation: slideInAnimation 1s ease-in-out forwards; }
-      .lang-progress { animation: growWidthAnimation 0.6s ease-in-out forwards; }
-      @keyframes fadeInAnimation { from { opacity: 0; } to { opacity: 1; } }
-    </style>
-    <rect
-      data-testid="card-bg"
-      x="0.5"
-      y="0.5"
-      rx="4.5"
-      height="99%"
-      stroke="#e4e2e2"
-      width="299"
-      fill="#fffefe"
-      stroke-opacity="1"
-    />
-    <g data-testid="card-title" transform="translate(25, 35)">
-      <text x="0" y="0" class="header" data-testid="header">Most Used Languages</text>
-    </g>
-    <g data-testid="main-card-body" transform="translate(0, 55)">
-      <svg data-testid="lang-items" x="25">
-        <mask id="rect-mask">
-          <rect x="0" y="0" width="250" height="8" fill="white" rx="5"/>
-        </mask>
-        <rect mask="url(#rect-mask)" data-testid="lang-progress" x="0" y="0" width="30.6" height="8" fill="#3572A5"/>  <!-- Python -->
-        <rect mask="url(#rect-mask)" data-testid="lang-progress" x="30.6" y="0" width="61.3" height="8" fill="#f1e05a"/>  <!-- JavaScript -->
-        <rect mask="url(#rect-mask)" data-testid="lang-progress" x="91.9" y="0" width="45.3" height="8" fill="#e34c26"/>  <!-- Power BI -->
-        <rect mask="url(#rect-mask)" data-testid="lang-progress" x="137.2" y="0" width="42" height="8" fill="#563d7c"/>  <!-- Excel -->
-        <rect mask="url(#rect-mask)" data-testid="lang-progress" x="179.2" y="0" width="30.6" height="8" fill="#f1e05a"/>  <!-- HTML -->
-        <rect mask="url(#rect-mask)" data-testid="lang-progress" x="209.8" y="0" width="45.6" height="8" fill="#c6538c"/>  <!-- CSS -->
-        <rect mask="url(#rect-mask)" data-testid="lang-progress" x="255.4" y="0" width="61.5" height="8" fill="#61dafb"/>  <!-- React -->
-        <g transform="translate(0, 25)">
-          <g transform="translate(0, 0)">
-            <g class="stagger" style="animation-delay: 450ms">
-              <circle cx="5" cy="6" r="5" fill="#3572A5" />
-              <text data-testid="lang-name" x="15" y="10" class='lang-name'>Python 10.2%</text>
-            </g>
-          </g>
-          <g transform="translate(0, 25)">
-            <g class="stagger" style="animation-delay: 600ms">
-              <circle cx="5" cy="6" r="5" fill="#f1e05a" />
-              <text data-testid="lang-name" x="15" y="10" class='lang-name'>JavaScript 20.1%</text>
-            </g>
-          </g>
-          <g transform="translate(0, 50)">
-            <g class="stagger" style="animation-delay: 750ms">
-              <circle cx="5" cy="6" r="5" fill="#e34c26" />
-              <text data-testid="lang-name" x="15" y="10" class='lang-name'>Power BI 15.1%</text>
-            </g>
-          </g>
-          <g transform="translate(0, 75)">
-            <g class="stagger" style="animation-delay: 900ms">
-              <circle cx="5" cy="6" r="5" fill="#563d7c" />
-              <text data-testid="lang-name" x="15" y="10" class='lang-name'>Excel 14%</text>
-            </g>
-          </g>
-          <g transform="translate(0, 100)">
-            <g class="stagger" style="animation-delay: 1050ms">
-              <circle cx="5" cy="6" r="5" fill="#f1e05a" />
-              <text data-testid="lang-name" x="15" y="10" class='lang-name'>HTML 10.2%</text>
-            </g>
-          </g>
-          <g transform="translate(0, 125)">
-            <g class="stagger" style="animation-delay: 1200ms">
-              <circle cx="5" cy="6" r="5" fill="#c6538c" />
-              <text data-testid="lang-name" x="15" y="10" class='lang-name'>CSS 15.2%</text>
-            </g>
-          </g>
-          <g transform="translate(0, 150)">
-            <g class="stagger" style="animation-delay: 1350ms">
-              <circle cx="5" cy="6" r="5" fill="#61dafb" />
-              <text data-testid="lang-name" x="15" y="10" class='lang-name'>React 20.5%</text>
-            </g>
-          </g>
-        </g>
-      </svg>
-    </g>
-  </svg>
-</a>
-
-
 </div>
 
   
