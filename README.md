@@ -1,5 +1,8 @@
-<div align="center">
-  <h1># Hi, I'm Aryan Patel.</h1>
+<div>
+  <div align="center">
+    <h1>Hi, I'm Aryan Patel.</h1>
+    <hr/>
+  </div>
 </div>
 
 
