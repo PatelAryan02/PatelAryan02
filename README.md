@@ -62,44 +62,18 @@
   </p>
 
   <!-- Stats Section (Optional) -->
-  <!-- Custom Most Used Languages -->
-<h2 align="center">Most Used Tools & Languages</h2>
-<div align="center">
-  <p>Python - 10.2%</p>
-  <div style="background-color: #ddd; border-radius: 5px; width: 80%; margin-bottom: 10px;">
-    <div style="width: 10.2%; height: 20px; background-color: #3776AB; border-radius: 5px;"></div>
+  <h2 align="center">Most Used Languages</h2>
+  
+  <div align="center">
+    <img src="https://img.shields.io/badge/JavaScript-20.1%25-yellow?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+    <img src="https://img.shields.io/badge/React-20.5%25-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React">
+    <img src="https://img.shields.io/badge/Power%20BI-15.1%25-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI">
+    <img src="https://img.shields.io/badge/CSS-15.2%25-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+    <img src="https://img.shields.io/badge/Excel-14%25-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
+    <img src="https://img.shields.io/badge/HTML5-10.2%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+    <img src="https://img.shields.io/badge/Python-10.2%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   </div>
 
-  <p>JavaScript - 20.1%</p>
-  <div style="background-color: #ddd; border-radius: 5px; width: 80%; margin-bottom: 10px;">
-    <div style="width: 20.1%; height: 20px; background-color: #F7DF1E; border-radius: 5px;"></div>
-  </div>
-
-  <p>Power BI - 15.1%</p>
-  <div style="background-color: #ddd; border-radius: 5px; width: 80%; margin-bottom: 10px;">
-    <div style="width: 15.1%; height: 20px; background-color: #F2C811; border-radius: 5px;"></div>
-  </div>
-
-  <p>Excel - 14%</p>
-  <div style="background-color: #ddd; border-radius: 5px; width: 80%; margin-bottom: 10px;">
-    <div style="width: 14%; height: 20px; background-color: #217346; border-radius: 5px;"></div>
-  </div>
-
-  <p>HTML - 10.2%</p>
-  <div style="background-color: #ddd; border-radius: 5px; width: 80%; margin-bottom: 10px;">
-    <div style="width: 10.2%; height: 20px; background-color: #E34F26; border-radius: 5px;"></div>
-  </div>
-
-  <p>CSS - 15.2%</p>
-  <div style="background-color: #ddd; border-radius: 5px; width: 80%; margin-bottom: 10px;">
-    <div style="width: 15.2%; height: 20px; background-color: #1572B6; border-radius: 5px;"></div>
-  </div>
-
-  <p>React - 20.5%</p>
-  <div style="background-color: #ddd; border-radius: 5px; width: 80%; margin-bottom: 10px;">
-    <div style="width: 20.5%; height: 20px; background-color: #61DAFB; border-radius: 5px;"></div>
-  </div>
-</div>
 </div>
 
   
