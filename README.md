@@ -66,7 +66,7 @@
   <!-- Stats Section (Optional) -->
   <h2 align="center">Most Used Languages</h2>
   
-  <div>
+  <!--<div>
     <img src="https://img.shields.io/badge/JavaScript-20.1%25-yellow?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
     <img src="https://img.shields.io/badge/React-20.5%25-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React">
     <img src="https://img.shields.io/badge/Power%20BI-15.1%25-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI">
@@ -74,9 +74,10 @@
     <img src="https://img.shields.io/badge/Excel-14%25-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
     <img src="https://img.shields.io/badge/HTML5-10.2%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
     <img src="https://img.shields.io/badge/Python-10.2%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  </div>
+  </div>-->
 
   ![PatelAryan02's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PatelAryan02&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+  ![PatelAryan02's Streak](https://github-readme-streak-stats.herokuapp.com/?user=PatelAryan02&theme=vue-dark&hide_border=true)
 </div>
 
   
