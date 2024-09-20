@@ -9,6 +9,11 @@
 <p>⚡ Fun fact: <strong>I do Cycling and Drawing.</strong></p>
 <p>🌐 My personal website<a href="http://aryanpatelportfolio.infinityfreeapp.com/" target="_blank">http://aryanpatelportfolio.infinityfreeapp.com/</a></p>
 
+<!-- Connect Links -->
+  <h2>Connect with me:</h2>
+  <a href="www.linkedin.com/in/aryan-patel-ap02" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
 
 
 <!--
