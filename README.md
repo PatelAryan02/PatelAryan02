@@ -75,19 +75,9 @@
     <img src="https://img.shields.io/badge/HTML5-10.2%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
     <img src="https://img.shields.io/badge/Python-10.2%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   </div>-->
-<markdown-accessiblity-table data-catalyst=""><table>
-  <tbody>
-    <tr>
-      <td>
-        <img src=![PatelAryan02's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PatelAryan02&theme=default&show_icons=true&hide_border=true&layout=compact)
-      </td>
-    <td>
-      <a target="_blank" rel="noopener noreferrer nofollow" href="![PatelAryan02's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PatelAryan02&theme=default&show_icons=true&hide_border=true&layout=compact)"><img width="400" src="![PatelAryan02's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PatelAryan02&theme=default&show_icons=true&hide_border=true&layout=compact)" alt="jai0212" data-canonical-src="![PatelAryan02's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PatelAryan02&theme=default&show_icons=true&hide_border=true&layout=compact)" style="max-width: 100%;"></a>
-    </td>
-  </tr>
-</tbody></table></markdown-accessiblity-table>
 
-
+![PatelAryan02's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PatelAryan02&theme=default&show_icons=true&hide_border=true&layout=compact)
+![PatelAryan02's Streak](https://github-readme-streak-stats.herokuapp.com/?user=PatelAryan02&theme=default&hide_border=true)
 </div>
 
   
