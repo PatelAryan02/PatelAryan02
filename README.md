@@ -12,7 +12,7 @@
 <!-- Connect Links -->
   <h2>Connect with me:</h2>
   <a href="www.linkedin.com/in/aryan-patel-ap02" rel="nofollow">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/jai-joshi-872726234" height="30" width="40" style="max-width: 100%;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/aryan-patel-ap02" height="30" width="40" style="max-width: 100%;">
   </a>
 
 <!--Languages-->
