@@ -11,8 +11,8 @@
 
 <!-- Connect Links -->
   <h2>Connect with me:</h2>
-  <a href="www.linkedin.com/in/aryan-patel-ap02" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  <a href="www.linkedin.com/in/aryan-patel-ap02" rel="nofollow">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/jai-joshi-872726234" height="30" width="40" style="max-width: 100%;">
   </a>
 
 
