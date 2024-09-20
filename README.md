@@ -1,4 +1,7 @@
-# Hi, I'm Aryan Patel.
+<div align="center">
+  # Hi, I'm Aryan Patel.
+</div>
+
 
 <!--
 **PatelAryan02/PatelAryan02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
