@@ -60,6 +60,11 @@
     <img src="https://img.shields.io/badge/000WebHost-46E3B7?style=for-the-badge&logo=000webhost&logoColor=black" alt="000WebHost">
     <img src="https://img.shields.io/badge/InfinityFree-46E3B7?style=for-the-badge&logo=icloud&logoColor=black" alt="InfinityFree">
   </p>
+
+  <!-- Stats Section (Optional) -->
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Most Used Languages">
+  </p>
 </div>
 
   
