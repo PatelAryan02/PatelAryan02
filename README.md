@@ -62,10 +62,44 @@
   </p>
 
   <!-- Stats Section (Optional) -->
-  <h2>Most Used Languages</h2>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatelAryan02&theme=dark&layout=compact" alt="Most Used Languages">
-  </p>
+  <!-- Custom Most Used Languages -->
+<h2 align="center">Most Used Tools & Languages</h2>
+<div align="center">
+  <p>Python - 10.2%</p>
+  <div style="background-color: #ddd; border-radius: 5px; width: 80%; margin-bottom: 10px;">
+    <div style="width: 10.2%; height: 20px; background-color: #3776AB; border-radius: 5px;"></div>
+  </div>
+
+  <p>JavaScript - 20.1%</p>
+  <div style="background-color: #ddd; border-radius: 5px; width: 80%; margin-bottom: 10px;">
+    <div style="width: 20.1%; height: 20px; background-color: #F7DF1E; border-radius: 5px;"></div>
+  </div>
+
+  <p>Power BI - 15.1%</p>
+  <div style="background-color: #ddd; border-radius: 5px; width: 80%; margin-bottom: 10px;">
+    <div style="width: 15.1%; height: 20px; background-color: #F2C811; border-radius: 5px;"></div>
+  </div>
+
+  <p>Excel - 14%</p>
+  <div style="background-color: #ddd; border-radius: 5px; width: 80%; margin-bottom: 10px;">
+    <div style="width: 14%; height: 20px; background-color: #217346; border-radius: 5px;"></div>
+  </div>
+
+  <p>HTML - 10.2%</p>
+  <div style="background-color: #ddd; border-radius: 5px; width: 80%; margin-bottom: 10px;">
+    <div style="width: 10.2%; height: 20px; background-color: #E34F26; border-radius: 5px;"></div>
+  </div>
+
+  <p>CSS - 15.2%</p>
+  <div style="background-color: #ddd; border-radius: 5px; width: 80%; margin-bottom: 10px;">
+    <div style="width: 15.2%; height: 20px; background-color: #1572B6; border-radius: 5px;"></div>
+  </div>
+
+  <p>React - 20.5%</p>
+  <div style="background-color: #ddd; border-radius: 5px; width: 80%; margin-bottom: 10px;">
+    <div style="width: 20.5%; height: 20px; background-color: #61DAFB; border-radius: 5px;"></div>
+  </div>
+</div>
 </div>
 
   
