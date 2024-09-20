@@ -76,15 +76,17 @@
     <img src="https://img.shields.io/badge/Python-10.2%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   </div>-->
 <markdown-accessiblity-table data-catalyst=""><table>
-  <tbody><tr>
-    <td>
-      <a target="_blank" rel="noopener noreferrer nofollow" href="![PatelAryan02's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PatelAryan02&theme=default&show_icons=true&hide_border=true&layout=compact)"><img width="350" src="![PatelAryan02's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PatelAryan02&theme=default&show_icons=true&hide_border=true&layout=compact)" alt="PatelAryan02" data-canonical-src="![PatelAryan02's Streak](https://github-readme-streak-stats.herokuapp.com/?user=PatelAryan02&theme=default&hide_border=true)" style="max-width: 100%;"></a>
-    </td>
+  <tbody>
+    <tr>
+      <td>
+        ![PatelAryan02's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PatelAryan02&theme=default&show_icons=true&hide_border=true&layout=compact)
+      </td>
     <td>
       <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d3535b8ae6a38adafbe54399c2337223825a5d1c1822f4a3e52c0e315e7569d2/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6a61693032313226"><img width="400" src="https://camo.githubusercontent.com/d3535b8ae6a38adafbe54399c2337223825a5d1c1822f4a3e52c0e315e7569d2/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6a61693032313226" alt="jai0212" data-canonical-src="![PatelAryan02's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PatelAryan02&theme=default&show_icons=true&hide_border=true&layout=compact)" style="max-width: 100%;"></a>
     </td>
   </tr>
 </tbody></table></markdown-accessiblity-table>
+
 
 </div>
 
