@@ -76,10 +76,13 @@
     <img src="https://img.shields.io/badge/Python-10.2%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   </div>-->
 
-  <div>
-    <img src="![PatelAryan02's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PatelAryan02&theme=default&show_icons=true&hide_border=true&layout=compact)" alt="PatelAryan02" width=400/>
-    <img src="![PatelAryan02's Streak](https://github-readme-streak-stats.herokuapp.com/?user=PatelAryan02&theme=default&hide_border=true)" alt="PatelAryan02" width=400/>
-  </div>
+  <div style="display: flex; justify-content: center;">
+    <!-- Top Languages Stats -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatelAryan02&theme=default&show_icons=true&hide_border=true&layout=compact" alt="PatelAryan02's Top Languages" width="400" />
+    <!-- Streak Stats -->
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PatelAryan02&theme=default&hide_border=true" alt="PatelAryan02's Streak" width="400" />
+</div>
+
 
 </div>
 
