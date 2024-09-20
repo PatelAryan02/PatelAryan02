@@ -65,6 +65,11 @@
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Most Used Languages">
   </p>
+
+  <h2>Most Used Languages</h2>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatelAryan02&theme=dark&layout=compact" alt="Most Used Languages">
+  </p>
 </div>
 
   
