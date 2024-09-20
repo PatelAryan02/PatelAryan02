@@ -49,6 +49,11 @@
     <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
     <img src="https://img.shields.io/badge/Beautiful%20Soup-FFD43B?style=for-the-badge&logo=python&logoColor=white" alt="Beautiful Soup">
   </p>
+
+  <h2>Database</h2>
+  <p align="left">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  </p>
 </div>
 
   
