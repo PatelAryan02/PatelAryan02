@@ -54,6 +54,12 @@
   <p align="left">
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
   </p>
+
+  <h2>Hosting</h2>
+  <p align="left">
+    <img src="https://img.shields.io/badge/000WebHost-46E3B7?style=for-the-badge&logo=000webhost&logoColor=black" alt="000WebHost">
+    <img src="https://img.shields.io/badge/InfinityFree-46E3B7?style=for-the-badge&logo=icloud&logoColor=black" alt="InfinityFree">
+  </p>
 </div>
 
   
