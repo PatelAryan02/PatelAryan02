@@ -81,6 +81,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatelAryan02&theme=default&show_icons=true&hide_border=true&layout=compact" alt="PatelAryan02's Top Languages" width="400" />
     <!-- Streak Stats -->
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=PatelAryan02&theme=default&hide_border=true" alt="PatelAryan02's Streak" width="550" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatelAryan02&theme=vue&show_icons=true&hide_border=true&layout=compact" alt="PatelAryan02's Top Languages" width="400" />
 </div>
 
 
