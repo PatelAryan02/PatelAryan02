@@ -3,11 +3,13 @@
 <p align="center"><strong>LJ University of Engineering & Technology</strong></p>
 <br/>
 <!-- Info and Links -->
-<p>🌱 I’m currently learning <strong>Full Stack Development & Data Science</strong></p>
-<p>💬 Ask me about <strong>Data Science, Python, Power BI, Excel, React, Mongo, Javascript, HTML, CSS</strong></p>
-<p>📫 How to reach me: <a href="mailto:aryanpatelaryan81@gmail.com">aryanpatelaryan81@gmail.com</a></p>
-<p>⚡ Fun fact: <strong>I do Cycling and Drawing.</strong></p>
-<p>🌐 My personal website: <a href="https://aryanpatelportfolio.infinityfreeapp.com/" target="_blank">http://aryanpatelportfolio.infinityfreeapp.com/</a></p>
+<ul>
+  <li><p>🌱 I’m currently learning <strong>Full Stack Development & Data Science</strong></p></li>
+  <li><p>💬 Ask me about <strong>Data Science, Python, Power BI, Excel, React, Mongo, Javascript, HTML, CSS</strong></p></li>
+  <li><p>📫 How to reach me: <a href="mailto:aryanpatelaryan81@gmail.com">aryanpatelaryan81@gmail.com</a></p></li>
+  <li><p>⚡ Fun fact: <strong>I do Cycling and Drawing.</strong></p></li>
+  <li><p>🌐 My personal website: <a href="https://aryanpatelportfolio.infinityfreeapp.com/" target="_blank">http://aryanpatelportfolio.infinityfreeapp.com/</a></p></li>
+</ul>
 
 <!-- Connect Links -->
   <h2>Connect with me:</h2>
