@@ -1,6 +1,6 @@
 <!-- Profile Heading -->
 <h1 align="center">Hi, I'm Aryan Patel</h1>
-<h3 align="center"><strong>LJ University of Engineering & Technology</strong></h3>
+<h2 align="center"><strong>LJ University of Engineering & Technology</strong></h2>
 <br/>
 <!-- Info and Links -->
 <ul>
