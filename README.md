@@ -82,6 +82,7 @@
     <!-- Top Languages Stats -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatelAryan02&theme=default&show_icons=true&hide_border=true&layout=compact" alt="PatelAryan02's Top Languages" width="400" />
     <!-- Streak Stats -->
+    <iframe title="Netflix Dashboard" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=cf44c891-a2f9-4c8b-a74b-dc35cb150fd8&autoAuth=true&embeddedDemo=true" frameborder="0" allowFullScreen="true"></iframe>
 </div>
 
 
