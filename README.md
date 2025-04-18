@@ -82,6 +82,7 @@
     <!-- Top Languages Stats -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatelAryan02&theme=default&show_icons=true&hide_border=true&layout=compact" alt="PatelAryan02's Top Languages" width="400" />
     <!-- Streak Stats -->
+    <iframe title="Adani Profit & Loss Dashboard" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=aebd060a-441f-41e7-962d-7713307c7eeb&autoAuth=true&ctid=5b8a9920-1973-415f-9cfa-20485004f755" frameborder="0" allowFullScreen="true"></iframe>
 </div>
 
 
