@@ -82,7 +82,7 @@
 
   <!--<div style="display: flex; justify-content: center;">
     <!-- Top Languages Stats -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatelAryan02&theme=default&show_icons=true&hide_border=true&layout=compact" alt="PatelAryan02's Top Languages" width="400" />
+    <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatelAryan02&theme=default&show_icons=true&hide_border=true&layout=compact" alt="PatelAryan02's Top Languages" width="400" /> -->
     <!-- Streak Stats -->
     </div>-->
 
