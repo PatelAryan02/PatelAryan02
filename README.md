@@ -17,11 +17,8 @@
   <a href="https://www.linkedin.com/in/aryan-patel-ap02/" rel="nofollow">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="max-width: 100%;">
   </a>
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/">
+  <a href="https://www.instagram.com/adp_0204/">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" style="max-width: 100%;">
-  </a>
-  <a href="https://www.facebook.com/YOUR_FACEBOOK_USERNAME/">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" style="max-width: 100%;">
   </a>
 </p>
 
