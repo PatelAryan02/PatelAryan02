@@ -67,6 +67,7 @@
 
   <!-- Stats Section (Optional) -->
   <h2 align="center">Most Used Languages</h2>
+</div>
   
   <!--<div>
     <img src="https://img.shields.io/badge/JavaScript-20.1%25-yellow?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
@@ -85,7 +86,7 @@
     </div>--->
 
 
-</div>
+
 
   
 
