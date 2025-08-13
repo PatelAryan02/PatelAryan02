@@ -8,7 +8,7 @@
   <li><p>💬 Ask me about <strong>Data Science, Python, Power BI, Excel, React, Mongo, Javascript, HTML, CSS</strong></p></li>
   <li><p>📫 How to reach me: <a href="mailto:aryanpatelaryan81@gmail.com">aryanpatelaryan81@gmail.com</a></p></li>
   <li><p>⚡ Fun fact: <strong>I do Cycling and Drawing.</strong></p></li>
-  <li><p>🌐 My personal website: <a href="https://aryanpatelportfolio.infinityfreeapp.com/" target="_blank">http://aryanpatelportfolio.infinityfreeapp.com/</a></p></li>
+  <li><p>🌐 My personal website: <a href="https://www.datascienceportfol.io/aryan_dharmesh_patel" target="_blank">https://www.datascienceportfol.io/aryan_dharmesh_patel</a></p></li>
 </ul>
 
 <!-- Connect Links -->
