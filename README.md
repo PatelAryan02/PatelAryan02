@@ -64,10 +64,11 @@
     <img src="https://img.shields.io/badge/000WebHost-46E3B7?style=for-the-badge&logo=000webhost&logoColor=black" alt="000WebHost">
     <img src="https://img.shields.io/badge/InfinityFree-46E3B7?style=for-the-badge&logo=icloud&logoColor=black" alt="InfinityFree">
   </p>
+</div>
 
   <!-- Stats Section (Optional) -->
-  <h2 align="center">Most Used Languages</h2>
-</div>
+ <!-- <h2 align="center">Most Used Languages</h2> -->
+
   
   <!--<div>
     <img src="https://img.shields.io/badge/JavaScript-20.1%25-yellow?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
@@ -83,7 +84,7 @@
     <!-- Top Languages Stats -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatelAryan02&theme=default&show_icons=true&hide_border=true&layout=compact" alt="PatelAryan02's Top Languages" width="400" />
     <!-- Streak Stats -->
-    </div>--->
+    </div>-->
 
 
 
