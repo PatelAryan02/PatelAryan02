@@ -4,10 +4,10 @@
 <br/>
 <!-- Info and Links -->
 <ul>
-  <li><p>🌱 I’m currently learning <strong>Full Stack Development & Data Science</strong></p></li>
-  <li><p>💬 Ask me about <strong>Data Science, Python, Power BI, Excel, React, Mongo, Javascript, HTML, CSS</strong></p></li>
+  <li><p>🌱 Currently POWER BI intern at <strong>Arvind Limited</strong></p></li>
+  <li><p>💬 Ask me about <strong>Python, Power BI, Excel, React, Mongo, Javascript, HTML, CSS</strong></p></li>
   <li><p>📫 How to reach me: <a href="mailto:aryanpatelaryan81@gmail.com">aryanpatelaryan81@gmail.com</a></p></li>
-  <li><p>⚡ Fun fact: <strong>I do Cycling and Drawing.</strong></p></li>
+  <li><p>⚡ Fun fact: <strong>I do Cycling and Painting.</strong></p></li>
   <li><p>🌐 My personal website: <a href="https://www.datascienceportfol.io/aryan_dharmesh_patel" target="_blank">https://www.datascienceportfol.io/aryan_dharmesh_patel</a></p></li>
 </ul>
 
