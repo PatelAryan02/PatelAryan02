@@ -53,6 +53,7 @@
     <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
     <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy">
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+    <img src="https://img.shields.io/badge/Pyplot-150458?style=for-the-badge&logo=PyPlot&logoColor=white" alt="PyPlot">
     <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
     <img src="https://img.shields.io/badge/Beautiful%20Soup-FFD43B?style=for-the-badge&logo=python&logoColor=white" alt="Beautiful Soup">
   </p>
